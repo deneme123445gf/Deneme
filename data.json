@@ -2,7 +2,7 @@
   {
     "Adi": "BYDNR",
     "Adet": 14,
-    "Alis Fiyat?": 21,
+    "Alis Fiyati": 21,
     "Maliyet (TL)": 294,
     "Guncel Fiyat": 59.7,
     "Guncel Getiri": 835.8000000000001,
@@ -14,7 +14,7 @@
   {
     "Adi": "ENERY",
     "Adet": 11,
-    "Alis Fiyat?": 88.76,
+    "Alis Fiyati": 88.76,
     "Maliyet (TL)": 976.36,
     "Guncel Fiyat": 208.6,
     "Guncel Getiri": 2294.6,
@@ -26,7 +26,7 @@
   {
     "Adi": "IZENR",
     "Adet": 36,
-    "Alis Fiyat?": 19,
+    "Alis Fiyati": 19,
     "Maliyet (TL)": 684,
     "Guncel Fiyat": 71.8,
     "Guncel Getiri": 2584.7999999999997,
@@ -38,7 +38,7 @@
   {
     "Adi": "KZGYO",
     "Adet": 14,
-    "Alis Fiyat?": 20.76,
+    "Alis Fiyati": 20.76,
     "Maliyet (TL)": 290.64000000000004,
     "Guncel Fiyat": 33.38,
     "Guncel Getiri": 467.32000000000005,
@@ -50,7 +50,7 @@
   {
     "Adi": "TATEN",
     "Adet": 22,
-    "Alis Fiyat?": 22.5,
+    "Alis Fiyati": 22.5,
     "Maliyet (TL)": 495,
     "Guncel Fiyat": 77.3,
     "Guncel Getiri": 1700.6,
@@ -62,7 +62,7 @@
   {
     "Adi": "Toplam",
     "Adet": 0,
-    "Alis Fiyat?": 0,
+    "Alis Fiyati": 0,
     "Maliyet (TL)": 2740,
     "Guncel Fiyat": 0,
     "Guncel Getiri": 7883.119999999999,
