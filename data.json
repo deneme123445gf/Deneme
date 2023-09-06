@@ -1,12 +1,12 @@
 [
   {
     "Ad?": "BYDNR",
-    "Adet": 14,
+    "Adet": 10,
     "Al?? Fiyat?": 21,
-    "Maliyet (TL)": 294,
+    "Maliyet (TL)": 210,
     "G?ncel Fiyat": 59.7,
-    "G?ncel Getiri": 835.8000000000001,
-    "Net Kar-Zarar (tl)": 541.8000000000001,
+    "G?ncel Getiri": 597,
+    "Net Kar-Zarar (tl)": 387,
     "% Kar- Zarar": 1.8428571428571427,
     "": "BYDNR",
     "Sat?ld? m? ?": false
@@ -63,10 +63,10 @@
     "Ad?": "Toplam",
     "Adet": 0,
     "Al?? Fiyat?": 0,
-    "Maliyet (TL)": 2740,
+    "Maliyet (TL)": 2656,
     "G?ncel Fiyat": 0,
-    "G?ncel Getiri": 7883.119999999999,
-    "Net Kar-Zarar (tl)": 5143.119999999999,
+    "G?ncel Getiri": 7644.32,
+    "Net Kar-Zarar (tl)": 4988.32,
     "% Kar- Zarar": 0,
     "": "",
     "Sat?ld? m? ?": false
