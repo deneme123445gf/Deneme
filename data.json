@@ -1,1 +1,74 @@
-onurr
+[
+  {
+    "Ad?": "BYDNR",
+    "Adet": 14,
+    "Al?? Fiyat?": 21,
+    "Maliyet (TL)": 294,
+    "G?ncel Fiyat": 59.7,
+    "G?ncel Getiri": 835.8000000000001,
+    "Net Kar-Zarar (tl)": 541.8000000000001,
+    "% Kar- Zarar": 1.8428571428571427,
+    "": "BYDNR",
+    "Sat?ld? m? ?": false
+  },
+  {
+    "Ad?": "ENERY",
+    "Adet": 11,
+    "Al?? Fiyat?": 88.76,
+    "Maliyet (TL)": 976.36,
+    "G?ncel Fiyat": 208.6,
+    "G?ncel Getiri": 2294.6,
+    "Net Kar-Zarar (tl)": 1318.2399999999998,
+    "% Kar- Zarar": 1.3501577287066246,
+    "": "ENERY",
+    "Sat?ld? m? ?": false
+  },
+  {
+    "Ad?": "IZENR",
+    "Adet": 36,
+    "Al?? Fiyat?": 19,
+    "Maliyet (TL)": 684,
+    "G?ncel Fiyat": 71.8,
+    "G?ncel Getiri": 2584.7999999999997,
+    "Net Kar-Zarar (tl)": 1900.7999999999997,
+    "% Kar- Zarar": 2.7789473684210524,
+    "": "IZENR",
+    "Sat?ld? m? ?": false
+  },
+  {
+    "Ad?": "KZGYO",
+    "Adet": 14,
+    "Al?? Fiyat?": 20.76,
+    "Maliyet (TL)": 290.64000000000004,
+    "G?ncel Fiyat": 33.38,
+    "G?ncel Getiri": 467.32000000000005,
+    "Net Kar-Zarar (tl)": 176.68,
+    "% Kar- Zarar": 0.6078998073217724,
+    "": "KZGYO",
+    "Sat?ld? m? ?": false
+  },
+  {
+    "Ad?": "TATEN",
+    "Adet": 22,
+    "Al?? Fiyat?": 22.5,
+    "Maliyet (TL)": 495,
+    "G?ncel Fiyat": 77.3,
+    "G?ncel Getiri": 1700.6,
+    "Net Kar-Zarar (tl)": 1205.6,
+    "% Kar- Zarar": 2.4355555555555553,
+    "": "TATEN",
+    "Sat?ld? m? ?": false
+  },
+  {
+    "Ad?": "Toplam",
+    "Adet": 0,
+    "Al?? Fiyat?": 0,
+    "Maliyet (TL)": 2740,
+    "G?ncel Fiyat": 0,
+    "G?ncel Getiri": 7883.119999999999,
+    "Net Kar-Zarar (tl)": 5143.119999999999,
+    "% Kar- Zarar": 0,
+    "": "",
+    "Sat?ld? m? ?": false
+  }
+]
