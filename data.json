@@ -4,10 +4,10 @@
     "Adet": 14,
     "Alis Fiyati": 21,
     "Maliyet (TL)": 294,
-    "Guncel Fiyat": 63.35,
-    "Guncel Getiri": 886.9,
-    "Net Kar-Zarar (tl)": 592.9,
-    "% Kar- Zarar": 2.016666666666667,
+    "Guncel Fiyat": 59.9,
+    "Guncel Getiri": 838.6,
+    "Net Kar-Zarar (tl)": 544.6,
+    "% Kar- Zarar": 1.8523809523809525,
     "": "BYDNR",
     "Satildi mi ?": false
   },
@@ -60,13 +60,25 @@
     "Satildi mi ?": false
   },
   {
+    "Adi": "EBEBK",
+    "Adet": 5,
+    "Alis Fiyati": 46.5,
+    "Maliyet (TL)": 232.5,
+    "Guncel Fiyat": 0,
+    "Guncel Getiri": "",
+    "Net Kar-Zarar (tl)": "",
+    "% Kar- Zarar": "",
+    "": "",
+    "Satildi mi ?": false
+  },
+  {
     "Adi": "Toplam",
     "Adet": 0,
     "Alis Fiyati": 0,
     "Maliyet (TL)": 2740,
     "Guncel Fiyat": 0,
-    "Guncel Getiri": 7530.44,
-    "Net Kar-Zarar (tl)": 4790.44,
+    "Guncel Getiri": 7482.14,
+    "Net Kar-Zarar (tl)": 4742.14,
     "% Kar- Zarar": 0,
     "": "",
     "Satildi mi ?": false
