@@ -84,14 +84,14 @@
     "Satildi mi ?": false
   },
   {
-    "Adi": "",
-    "Adet": "",
-    "Alis Fiyati": "",
-    "Maliyet (TL)": "",
-    "Guncel Fiyat": "",
-    "Guncel Getiri": "",
-    "Net Kar-Zarar (tl)": "",
-    "% Kar- Zarar": "",
+    "Adi": "GIPTA",
+    "Adet": 9,
+    "Alis Fiyati": 20.9,
+    "Maliyet (TL)": 0,
+    "Guncel Fiyat": 0,
+    "Guncel Getiri": 0,
+    "Net Kar-Zarar (tl)": 0,
+    "% Kar- Zarar": 0,
     "": "",
     "Satildi mi ?": false
   },
