@@ -72,13 +72,49 @@
     "Satildi mi ?": false
   },
   {
+    "Adi": "TARKM",
+    "Adet": 1,
+    "Alis Fiyati": 107.5,
+    "Maliyet (TL)": 107.5,
+    "Guncel Fiyat": 118.2,
+    "Guncel Getiri": 118.2,
+    "Net Kar-Zarar (tl)": 10.700000000000003,
+    "% Kar- Zarar": 0.0995348837209302,
+    "": "TARKM",
+    "Satildi mi ?": false
+  },
+  {
+    "Adi": "",
+    "Adet": "",
+    "Alis Fiyati": "",
+    "Maliyet (TL)": "",
+    "Guncel Fiyat": "",
+    "Guncel Getiri": "",
+    "Net Kar-Zarar (tl)": "",
+    "% Kar- Zarar": "",
+    "": "",
+    "Satildi mi ?": false
+  },
+  {
+    "Adi": "",
+    "Adet": "",
+    "Alis Fiyati": "",
+    "Maliyet (TL)": "",
+    "Guncel Fiyat": "",
+    "Guncel Getiri": "",
+    "Net Kar-Zarar (tl)": "",
+    "% Kar- Zarar": "",
+    "": "",
+    "Satildi mi ?": false
+  },
+  {
     "Adi": "Toplam",
     "Adet": 0,
     "Alis Fiyati": 0,
-    "Maliyet (TL)": 2740,
+    "Maliyet (TL)": 3080,
     "Guncel Fiyat": 0,
-    "Guncel Getiri": 7121.28,
-    "Net Kar-Zarar (tl)": 4381.28,
+    "Guncel Getiri": 7239.48,
+    "Net Kar-Zarar (tl)": 4159.48,
     "% Kar- Zarar": 0,
     "": "",
     "Satildi mi ?": false
