@@ -92,7 +92,7 @@
     "Guncel Getiri": 332.28000000000003,
     "Net Kar-Zarar (tl)": 144.18000000000004,
     "% Kar- Zarar": 0.766507177033493,
-    "": "GIPTA",
+    "": "",
     "Satildi mi ?": false
   },
   {
@@ -100,6 +100,18 @@
     "Adet": 46,
     "Alis Fiyati": 9.3,
     "Maliyet (TL)": 427.8,
+    "Guncel Fiyat": 10.23,
+    "Guncel Getiri": 470.58000000000004,
+    "Net Kar-Zarar (tl)": 42.78000000000003,
+    "% Kar- Zarar": 0.10000000000000014,
+    "": "",
+    "Satildi mi ?": false
+  },
+  {
+    "Adi": "HATSN",
+    "Adet": 9,
+    "Alis Fiyati": 22.6,
+    "Maliyet (TL)": 203.4,
     "Guncel Fiyat": 0,
     "Guncel Getiri": 0,
     "Net Kar-Zarar (tl)": 0,
@@ -111,10 +123,10 @@
     "Adi": "Toplam",
     "Adet": 0,
     "Alis Fiyati": 0,
-    "Maliyet (TL)": 3268.1,
+    "Maliyet (TL)": 3899.3,
     "Guncel Fiyat": 0,
-    "Guncel Getiri": 6526.289999999999,
-    "Net Kar-Zarar (tl)": 3258.189999999999,
+    "Guncel Getiri": 6996.869999999999,
+    "Net Kar-Zarar (tl)": 3097.569999999999,
     "% Kar- Zarar": 0,
     "": "",
     "Satildi mi ?": false
