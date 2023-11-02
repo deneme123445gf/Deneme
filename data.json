@@ -4,10 +4,10 @@
     "Adet": 14,
     "Alis Fiyati": 10.24,
     "Maliyet (TL)": 143.36,
-    "Guncel Fiyat": 14.64,
-    "Guncel Getiri": 204.96,
-    "Net Kar-Zarar (tl)": 61.599999999999994,
-    "% Kar- Zarar": 0.4296875,
+    "Guncel Fiyat": 14.36,
+    "Guncel Getiri": 201.04,
+    "Net Kar-Zarar (tl)": 57.67999999999998,
+    "% Kar- Zarar": 0.4023437499999997,
     "Satildi mi ?": false
   },
   {
@@ -15,10 +15,10 @@
     "Adet": 11,
     "Alis Fiyati": 88.76,
     "Maliyet (TL)": 976.36,
-    "Guncel Fiyat": 132.4,
-    "Guncel Getiri": 1456.4,
-    "Net Kar-Zarar (tl)": 480.0400000000001,
-    "% Kar- Zarar": 0.4916629112212709,
+    "Guncel Fiyat": 130.5,
+    "Guncel Getiri": 1435.5,
+    "Net Kar-Zarar (tl)": 459.14,
+    "% Kar- Zarar": 0.4702568724650743,
     "Satildi mi ?": false
   },
   {
@@ -26,10 +26,10 @@
     "Adet": 36,
     "Alis Fiyati": 19,
     "Maliyet (TL)": 684,
-    "Guncel Fiyat": 33.5,
-    "Guncel Getiri": 1206,
-    "Net Kar-Zarar (tl)": 522,
-    "% Kar- Zarar": 0.7631578947368419,
+    "Guncel Fiyat": 33.52,
+    "Guncel Getiri": 1206.72,
+    "Net Kar-Zarar (tl)": 522.72,
+    "% Kar- Zarar": 0.7642105263157896,
     "Satildi mi ?": false
   },
   {
@@ -37,10 +37,10 @@
     "Adet": 65,
     "Alis Fiyati": 4.3,
     "Maliyet (TL)": 279.5,
-    "Guncel Fiyat": 5.19,
-    "Guncel Getiri": 337.35,
-    "Net Kar-Zarar (tl)": 57.85000000000002,
-    "% Kar- Zarar": 0.20697674418604664,
+    "Guncel Fiyat": 5.23,
+    "Guncel Getiri": 339.95000000000005,
+    "Net Kar-Zarar (tl)": 60.450000000000045,
+    "% Kar- Zarar": 0.216279069767442,
     "Satildi mi ?": false
   },
   {
@@ -48,10 +48,10 @@
     "Adet": 46,
     "Alis Fiyati": 9.3,
     "Maliyet (TL)": 427.8,
-    "Guncel Fiyat": 17.68,
-    "Guncel Getiri": 813.28,
-    "Net Kar-Zarar (tl)": 385.47999999999996,
-    "% Kar- Zarar": 0.9010752688172041,
+    "Guncel Fiyat": 17.49,
+    "Guncel Getiri": 804.54,
+    "Net Kar-Zarar (tl)": 376.73999999999995,
+    "% Kar- Zarar": 0.8806451612903226,
     "Satildi mi ?": false
   },
   {
@@ -59,10 +59,10 @@
     "Adet": 22,
     "Alis Fiyati": 22.5,
     "Maliyet (TL)": 495,
-    "Guncel Fiyat": 37.14,
-    "Guncel Getiri": 817.08,
-    "Net Kar-Zarar (tl)": 322.08000000000004,
-    "% Kar- Zarar": 0.6506666666666666,
+    "Guncel Fiyat": 36.92,
+    "Guncel Getiri": 812.24,
+    "Net Kar-Zarar (tl)": 317.24,
+    "% Kar- Zarar": 0.6408888888888887,
     "Satildi mi ?": false
   },
   {
@@ -70,10 +70,10 @@
     "Adet": 9,
     "Alis Fiyati": 130,
     "Maliyet (TL)": 1170,
-    "Guncel Fiyat": 178.6,
-    "Guncel Getiri": 1607.3999999999999,
-    "Net Kar-Zarar (tl)": 437.39999999999986,
-    "% Kar- Zarar": 0.3738461538461536,
+    "Guncel Fiyat": 172.2,
+    "Guncel Getiri": 1549.8,
+    "Net Kar-Zarar (tl)": 379.79999999999995,
+    "% Kar- Zarar": 0.32461538461538453,
     "Satildi mi ?": ""
   },
   {
@@ -81,10 +81,10 @@
     "Adet": 10,
     "Alis Fiyati": 15.78,
     "Maliyet (TL)": 157.79999999999998,
-    "Guncel Fiyat": 23.06,
-    "Guncel Getiri": 230.6,
-    "Net Kar-Zarar (tl)": 72.80000000000001,
-    "% Kar- Zarar": 0.461343472750317,
+    "Guncel Fiyat": 24.62,
+    "Guncel Getiri": 246.20000000000002,
+    "Net Kar-Zarar (tl)": 88.40000000000003,
+    "% Kar- Zarar": 0.5602027883396707,
     "Satildi mi ?": ""
   },
   {
@@ -93,9 +93,9 @@
     "Alis Fiyati": 0,
     "Maliyet (TL)": 4333.820000000001,
     "Guncel Fiyat": 0,
-    "Guncel Getiri": 6673.07,
-    "Net Kar-Zarar (tl)": 2339.249999999999,
-    "% Kar- Zarar": 0.5397663031690285,
+    "Guncel Getiri": 6595.99,
+    "Net Kar-Zarar (tl)": 2262.169999999999,
+    "% Kar- Zarar": 0.5219806083316795,
     "Satildi mi ?": false
   },
   {
