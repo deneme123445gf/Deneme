@@ -11,7 +11,7 @@
     "Satildi mi ?": false
   },
   {
-    "": "lll",
+    "": "",
     "Adet": 11,
     "Alis Fiyati": 88.76,
     "Maliyet (TL)": 976.36,
@@ -85,6 +85,17 @@
     "Guncel Getiri": 198.5,
     "Net Kar-Zarar (tl)": 40.70000000000002,
     "% Kar- Zarar": 0.25792141951837794,
+    "Satildi mi ?": ""
+  },
+  {
+    "": "",
+    "Adet": 0,
+    "Alis Fiyati": 0,
+    "Maliyet (TL)": 0,
+    "Guncel Fiyat": 0,
+    "Guncel Getiri": 0,
+    "Net Kar-Zarar (tl)": 0,
+    "% Kar- Zarar": 0,
     "Satildi mi ?": ""
   },
   {
