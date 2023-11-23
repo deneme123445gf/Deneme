@@ -4,10 +4,10 @@
     "Adet": 14,
     "Alis Fiyati": 10.24,
     "Maliyet (TL)": 143.36,
-    "Guncel Fiyat": 17.1,
-    "Guncel Getiri": 239.40000000000003,
-    "Net Kar-Zarar (tl)": 96.04000000000002,
-    "% Kar- Zarar": 0.669921875,
+    "Guncel Fiyat": 17,
+    "Guncel Getiri": 238,
+    "Net Kar-Zarar (tl)": 94.63999999999999,
+    "% Kar- Zarar": 0.6601562499999997,
     "Satildi mi ?": false
   },
   {
@@ -15,10 +15,10 @@
     "Adet": 11,
     "Alis Fiyati": 88.76,
     "Maliyet (TL)": 976.36,
-    "Guncel Fiyat": 140.2,
-    "Guncel Getiri": 1542.1999999999998,
-    "Net Kar-Zarar (tl)": 565.8399999999998,
-    "% Kar- Zarar": 0.5795403334835509,
+    "Guncel Fiyat": 139.3,
+    "Guncel Getiri": 1532.3000000000002,
+    "Net Kar-Zarar (tl)": 555.9400000000002,
+    "% Kar- Zarar": 0.5694006309148267,
     "Satildi mi ?": false
   },
   {
@@ -26,10 +26,10 @@
     "Adet": 36,
     "Alis Fiyati": 19,
     "Maliyet (TL)": 684,
-    "Guncel Fiyat": 36.34,
-    "Guncel Getiri": 1308.2400000000002,
-    "Net Kar-Zarar (tl)": 624.2400000000002,
-    "% Kar- Zarar": 0.9126315789473688,
+    "Guncel Fiyat": 36.02,
+    "Guncel Getiri": 1296.72,
+    "Net Kar-Zarar (tl)": 612.72,
+    "% Kar- Zarar": 0.8957894736842104,
     "Satildi mi ?": false
   },
   {
@@ -37,10 +37,10 @@
     "Adet": 65,
     "Alis Fiyati": 4.3,
     "Maliyet (TL)": 279.5,
-    "Guncel Fiyat": 5.55,
-    "Guncel Getiri": 360.75,
-    "Net Kar-Zarar (tl)": 81.25,
-    "% Kar- Zarar": 0.2906976744186048,
+    "Guncel Fiyat": 5.61,
+    "Guncel Getiri": 364.65000000000003,
+    "Net Kar-Zarar (tl)": 85.15000000000003,
+    "% Kar- Zarar": 0.30465116279069776,
     "Satildi mi ?": false
   },
   {
@@ -48,10 +48,10 @@
     "Adet": 46,
     "Alis Fiyati": 9.3,
     "Maliyet (TL)": 427.8,
-    "Guncel Fiyat": 29.74,
-    "Guncel Getiri": 1368.04,
-    "Net Kar-Zarar (tl)": 940.24,
-    "% Kar- Zarar": 2.197849462365591,
+    "Guncel Fiyat": 29.56,
+    "Guncel Getiri": 1359.76,
+    "Net Kar-Zarar (tl)": 931.96,
+    "% Kar- Zarar": 2.1784946236559137,
     "Satildi mi ?": false
   },
   {
@@ -59,10 +59,10 @@
     "Adet": 22,
     "Alis Fiyati": 22.5,
     "Maliyet (TL)": 495,
-    "Guncel Fiyat": 40.32,
-    "Guncel Getiri": 887.04,
-    "Net Kar-Zarar (tl)": 392.03999999999996,
-    "% Kar- Zarar": 0.7920000000000001,
+    "Guncel Fiyat": 40.06,
+    "Guncel Getiri": 881.32,
+    "Net Kar-Zarar (tl)": 386.32000000000005,
+    "% Kar- Zarar": 0.7804444444444445,
     "Satildi mi ?": false
   },
   {
@@ -70,10 +70,10 @@
     "Adet": 9,
     "Alis Fiyati": 130,
     "Maliyet (TL)": 1170,
-    "Guncel Fiyat": 163.3,
-    "Guncel Getiri": 1469.7,
-    "Net Kar-Zarar (tl)": 299.70000000000005,
-    "% Kar- Zarar": 0.2561538461538461,
+    "Guncel Fiyat": 162.7,
+    "Guncel Getiri": 1464.3,
+    "Net Kar-Zarar (tl)": 294.29999999999995,
+    "% Kar- Zarar": 0.2515384615384615,
     "Satildi mi ?": ""
   },
   {
@@ -81,10 +81,10 @@
     "Adet": 10,
     "Alis Fiyati": 15.78,
     "Maliyet (TL)": 157.79999999999998,
-    "Guncel Fiyat": 26.3,
-    "Guncel Getiri": 263,
-    "Net Kar-Zarar (tl)": 105.20000000000002,
-    "% Kar- Zarar": 0.6666666666666669,
+    "Guncel Fiyat": 26.52,
+    "Guncel Getiri": 265.2,
+    "Net Kar-Zarar (tl)": 107.4,
+    "% Kar- Zarar": 0.6806083650190115,
     "Satildi mi ?": ""
   },
   {
@@ -92,10 +92,10 @@
     "Adet": 21,
     "Alis Fiyati": 10.97,
     "Maliyet (TL)": 230.37,
-    "Guncel Fiyat": 21.06,
-    "Guncel Getiri": 442.26,
-    "Net Kar-Zarar (tl)": 211.89,
-    "% Kar- Zarar": 0.9197812215132177,
+    "Guncel Fiyat": 20.94,
+    "Guncel Getiri": 439.74,
+    "Net Kar-Zarar (tl)": 209.37,
+    "% Kar- Zarar": 0.9088422971741114,
     "Satildi mi ?": ""
   },
   {
@@ -104,9 +104,9 @@
     "Alis Fiyati": 0,
     "Maliyet (TL)": 4564.1900000000005,
     "Guncel Fiyat": 0,
-    "Guncel Getiri": 7880.63,
-    "Net Kar-Zarar (tl)": 3316.4399999999996,
-    "% Kar- Zarar": 0.7266218102226242,
+    "Guncel Getiri": 7841.99,
+    "Net Kar-Zarar (tl)": 3277.7999999999993,
+    "% Kar- Zarar": 0.7181559049908085,
     "Satildi mi ?": false
   },
   {
