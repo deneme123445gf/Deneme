@@ -1,39 +1,42 @@
 [
   {
-    "": "",
+    "": "DMRGD",
     "Adet": 14,
     "Alis Fiyati": 10.24,
     "Maliyet (TL)": 143.36,
-    "Guncel Fiyat": 16.78,
-    "Guncel Getiri": 234.92000000000002,
-    "Net Kar-Zarar (tl)": 91.56,
-    "% Kar- Zarar": 0.638671875,
-    "Satildi mi ?": true
+    "Guncel Fiyat": 16.61,
+    "Guncel Getiri": 232.54,
+    "Net Kar-Zarar (tl)": 89.17999999999998,
+    "% Kar- Zarar": 0.6220703124999997,
+    "SatisFiyati": "",
+    "Satildi mi ?": false
   },
   {
-    "": "",
+    "": "MHRGY",
     "Adet": 65,
     "Alis Fiyati": 4.3,
     "Maliyet (TL)": 279.5,
-    "Guncel Fiyat": 6.12,
-    "Guncel Getiri": 397.8,
-    "Net Kar-Zarar (tl)": 118.30000000000001,
-    "% Kar- Zarar": 0.4232558139534882,
+    "Guncel Fiyat": 6.09,
+    "Guncel Getiri": 395.84999999999997,
+    "Net Kar-Zarar (tl)": 116.34999999999997,
+    "% Kar- Zarar": 0.41627906976744156,
+    "SatisFiyati": "",
     "Satildi mi ?": false
   },
   {
-    "": "",
+    "": "MARBL",
     "Adet": 21,
     "Alis Fiyati": 10.97,
     "Maliyet (TL)": 230.37,
-    "Guncel Fiyat": 22.86,
-    "Guncel Getiri": 480.06,
-    "Net Kar-Zarar (tl)": 249.69,
-    "% Kar- Zarar": 1.0838650865998178,
+    "Guncel Fiyat": 22.8,
+    "Guncel Getiri": 478.8,
+    "Net Kar-Zarar (tl)": 248.43,
+    "% Kar- Zarar": 1.0783956244302644,
+    "SatisFiyati": "",
     "Satildi mi ?": false
   },
   {
-    "": "",
+    "": "PATEK",
     "Adet": 8,
     "Alis Fiyati": 35,
     "Maliyet (TL)": 280,
@@ -41,6 +44,19 @@
     "Guncel Getiri": 1059.2,
     "Net Kar-Zarar (tl)": 779.2,
     "% Kar- Zarar": 2.782857142857143,
+    "SatisFiyati": "132.4",
+    "Satildi mi ?": true
+  },
+  {
+    "": "BORSK",
+    "Adet": 16,
+    "Alis Fiyati": 26.54,
+    "Maliyet (TL)": 424.64,
+    "Guncel Fiyat": 51.5,
+    "Guncel Getiri": 824,
+    "Net Kar-Zarar (tl)": 399.36,
+    "% Kar- Zarar": 0.9404672192916351,
+    "SatisFiyati": "",
     "Satildi mi ?": false
   },
   {
@@ -52,6 +68,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -63,6 +80,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -74,6 +92,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -85,6 +104,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -96,6 +116,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -107,6 +128,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -118,28 +140,19 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
-    "": "",
-    "Adet": "",
-    "Alis Fiyati": "",
-    "Maliyet (TL)": "",
-    "Guncel Fiyat": "",
-    "Guncel Getiri": "",
-    "Net Kar-Zarar (tl)": "",
-    "% Kar- Zarar": "",
-    "Satildi mi ?": ""
-  },
-  {
-    "": "",
+    "": "Toplam",
     "Adet": 0,
     "Alis Fiyati": 0,
-    "Maliyet (TL)": 933.23,
+    "Maliyet (TL)": 1077.87,
     "Guncel Fiyat": 0,
-    "Guncel Getiri": 1937.06,
-    "Net Kar-Zarar (tl)": 1003.8299999999999,
-    "% Kar- Zarar": 1.0756512328150614,
+    "Guncel Getiri": 1931.19,
+    "Net Kar-Zarar (tl)": 853.3200000000002,
+    "% Kar- Zarar": 0.791672465139581,
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -151,6 +164,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -162,6 +176,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -173,6 +188,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -184,6 +200,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -195,6 +212,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -206,6 +224,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": ""
   },
   {
@@ -217,6 +236,7 @@
     "Guncel Getiri": "",
     "Net Kar-Zarar (tl)": "",
     "% Kar- Zarar": "",
+    "SatisFiyati": "",
     "Satildi mi ?": false
   }
 ]
