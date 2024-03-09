@@ -60,16 +60,16 @@
     "Satildi mi ?": false
   },
   {
-    "": "",
-    "Adet": "",
-    "Alis Fiyati": "",
-    "Maliyet (TL)": "",
-    "Guncel Fiyat": "",
-    "Guncel Getiri": "",
-    "Net Kar-Zarar (tl)": "",
-    "% Kar- Zarar": "",
+    "": "MOGAN",
+    "Adet": 68,
+    "Alis Fiyati": 11.33,
+    "Maliyet (TL)": 770.44,
+    "Guncel Fiyat": 13.7,
+    "Guncel Getiri": 931.5999999999999,
+    "Net Kar-Zarar (tl)": 161.15999999999985,
+    "% Kar- Zarar": 0.20917917034421876,
     "SatisFiyati": "",
-    "Satildi mi ?": ""
+    "Satildi mi ?": false
   },
   {
     "": "",
@@ -147,11 +147,11 @@
     "": "Toplam",
     "Adet": 0,
     "Alis Fiyati": 0,
-    "Maliyet (TL)": 1077.87,
+    "Maliyet (TL)": 1848.31,
     "Guncel Fiyat": 0,
-    "Guncel Getiri": 1715.37,
-    "Net Kar-Zarar (tl)": 637.5,
-    "% Kar- Zarar": 0.591444237245679,
+    "Guncel Getiri": 2646.97,
+    "Net Kar-Zarar (tl)": 798.6599999999999,
+    "% Kar- Zarar": 0.4321028398915766,
     "SatisFiyati": "",
     "Satildi mi ?": ""
   },
