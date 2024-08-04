@@ -9,7 +9,7 @@
     "Net Kar-Zarar (tl)": 73.35999999999999,
     "% Kar- Zarar": 0.5117187499999997,
     "SatisFiyati": "",
-    "Satildi mi ?": false
+    "Satildi mi ?": true
   },
   {
     "": "MHRGY",
@@ -21,7 +21,7 @@
     "Net Kar-Zarar (tl)": 29.899999999999977,
     "% Kar- Zarar": 0.10697674418604648,
     "SatisFiyati": "",
-    "Satildi mi ?": false
+    "Satildi mi ?": true
   },
   {
     "": "MARBL",
@@ -33,7 +33,7 @@
     "Net Kar-Zarar (tl)": 103.11000000000001,
     "% Kar- Zarar": 0.4475843208751141,
     "SatisFiyati": "",
-    "Satildi mi ?": false
+    "Satildi mi ?": true
   },
   {
     "": "PATEK",
@@ -57,7 +57,7 @@
     "Net Kar-Zarar (tl)": 65.60000000000002,
     "% Kar- Zarar": 0.15448379804069348,
     "SatisFiyati": "",
-    "Satildi mi ?": false
+    "Satildi mi ?": true
   },
   {
     "": "MOGAN",
@@ -69,7 +69,7 @@
     "Net Kar-Zarar (tl)": 184.96000000000004,
     "% Kar- Zarar": 0.2400706090026479,
     "SatisFiyati": "",
-    "Satildi mi ?": false
+    "Satildi mi ?": true
   },
   {
     "": "",
@@ -147,11 +147,11 @@
     "": "Toplam",
     "Adet": 0,
     "Alis Fiyati": 0,
-    "Maliyet (TL)": 1848.31,
+    "Maliyet (TL)": 0,
     "Guncel Fiyat": 0,
-    "Guncel Getiri": 2305.2400000000002,
-    "Net Kar-Zarar (tl)": 456.9300000000003,
-    "% Kar- Zarar": 0.24721502345385787,
+    "Guncel Getiri": 0,
+    "Net Kar-Zarar (tl)": 0,
+    "% Kar- Zarar": "#DIV/0!",
     "SatisFiyati": "",
     "Satildi mi ?": ""
   },
